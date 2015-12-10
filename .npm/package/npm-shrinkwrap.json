@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "es6-symbol": {
+      "version": "3.0.1",
+      "dependencies": {
+        "d": {
+          "version": "0.1.1"
+        },
+        "es5-ext": {
+          "version": "0.10.9",
+          "dependencies": {
+            "es6-iterator": {
+              "version": "2.0.0"
+            }
+          }
+        }
+      }
+    }
+  }
+}

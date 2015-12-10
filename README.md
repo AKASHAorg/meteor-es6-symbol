@@ -1,0 +1,1 @@
+## This package exposes [es6-symbol](https://www.npmjs.com/package/es6-symbol) as `Symbol` on server side
